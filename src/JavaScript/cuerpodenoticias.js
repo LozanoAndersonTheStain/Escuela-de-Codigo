@@ -1,4 +1,4 @@
-let slider = document.querySelector('.container')
+let slider = document.querySelector('.slider-container')
 let sliderIndividual = document.querySelectorAll('.contenido')
 let contador = 1
 let width = sliderIndividual[0].clientWidth
